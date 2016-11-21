@@ -1,0 +1,1 @@
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\bin\Debug\ServicioCorreo.exe.config

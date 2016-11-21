@@ -1,0 +1,8 @@
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\bin\Release\ServicioCorreo.exe.config
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\bin\Release\ServicioCorreo.exe
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\bin\Release\ServicioCorreo.pdb
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\obj\Release\ServicioCorreo.csprojResolveAssemblyReference.cache
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\obj\Release\ServicioCorreo.ProjectInstaller.resources
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\obj\Release\ServicioCorreo.csproj.GenerateResource.Cache
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\obj\Release\ServicioCorreo.exe
+c:\users\gab\documents\visual studio 2015\Projects\ServicioCorreo\ServicioCorreo\obj\Release\ServicioCorreo.pdb
